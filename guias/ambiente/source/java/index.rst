@@ -19,7 +19,7 @@ Certifique-se de que você foi redirecionado à pagina de download do
 .. figure:: jdk-download-2.png
     :align: center
 
-E baixe o arquivo de referente à versão do sistema operacional:
+E baixe o arquivo referente à versão do sistema operacional:
 
 .. figure:: jdk-download-3.png
     :align: center
